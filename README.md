@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Node.js, Ngnix, Docker**<br>⚡ Fun fact **The infinity sign is called a lemniscate**
+🌱 I’m currently learning **Node.js, MongoDB**<br>⚡ Fun fact **The infinity sign is called a lemniscate**
 
 
 ## 🌐 Socials:
